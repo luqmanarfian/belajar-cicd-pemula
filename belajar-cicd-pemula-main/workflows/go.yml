@@ -34,4 +34,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: luqmankendal54/belajar-cicd1:latest
+          tags: luqmankendal54/belajar-cicd2:latest
