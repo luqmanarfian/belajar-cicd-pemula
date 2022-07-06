@@ -1,2 +1,2 @@
 # belajar-cicd-pemula
-belajar membuat cicd pemula ke docker hub
+Repositori untuk belajar membuat CI/CD lewat Github Actions (dari video youtube https://youtube.com/user/girikuncoro))
